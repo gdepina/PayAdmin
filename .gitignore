@@ -5,6 +5,8 @@
 # IntelliJ project files
 .idea
 *.iml
+.classpath
+.project
 bin
 out
 gen

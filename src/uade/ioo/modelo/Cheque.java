@@ -10,7 +10,7 @@ public abstract class Cheque {
 		DEFEATED,
 	    RECEIVED,
 	    DELIVERED,
-	    DEPOSITED;
+	    DEPOSITED,
 	}
 
 	private int numero;
