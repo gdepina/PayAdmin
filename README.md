@@ -11,7 +11,6 @@
 
 ### Formularios
 - Un formulario para registrar los cheques  de terceros recibidos. ([JFormularioRecibirCheque](https://github.com/gdepina/PayAdmin/blob/d2891c60268dd3ec88c7eac3f810612ae8ae5b8d/src/uade/ioo/vista/formulario/JFormularioRecibirCheque.java))
-
 Formularios > Agregar cheque
 
 ![image](https://user-images.githubusercontent.com/14336357/33242915-b515a500-d2ba-11e7-84e2-7edc821037ea.png)
