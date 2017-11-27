@@ -49,7 +49,7 @@ Grupo __Alpha__
 
 - Matias Nahuel Menis | 1050495
 - Ezequiel Porras | 1085065
-- Christian Jorge Russo | 1085065
+- Christian Jorge Russo | 1081982
 - Mathias Gabriel Zaracho | 1083566
 
 ## Introduccion A La Orientacion A Objetos | Lunes | Noche 
